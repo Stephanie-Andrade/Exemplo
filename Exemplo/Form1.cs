@@ -5,6 +5,8 @@ namespace Exemplo
         public Form1()
         {
             InitializeComponent();
+            string msg = "Bem-vindo ao repositório do GIT";
+            MessageBox.Show(msg);
         }
     }
 }
