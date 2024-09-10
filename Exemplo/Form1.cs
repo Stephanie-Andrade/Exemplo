@@ -7,6 +7,10 @@ namespace Exemplo
             InitializeComponent();
             string msg = "Bem-vindo ao repositório do GIT";
             MessageBox.Show(msg);
+
+            //Joao
+            int idade = 45;
+            MessageBox.Show("Idade: " + idade);
         }
     }
 }
